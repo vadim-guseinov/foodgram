@@ -70,7 +70,7 @@ Foodgram — веб-приложение, где пользователи пуб
 **Требования:** Docker 24+ и Docker Compose v2.
 
 ```bash
-git clone https://github.com/JuliaDJ1/foodgram.git
+git clone https://github.com/vadim-guseinov/foodgram.git
 cd foodgram/infra
 
 cp .env.example .env        # заполните POSTGRES_PASSWORD и SECRET_KEY
