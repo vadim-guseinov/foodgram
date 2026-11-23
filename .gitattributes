@@ -1,0 +1,3 @@
+# Готовый React-фронтенд не учитывается в статистике языков репозитория
+frontend/** linguist-vendored
+docs/** linguist-documentation
